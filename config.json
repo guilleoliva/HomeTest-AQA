@@ -1,0 +1,9 @@
+{
+  "envs": [
+    {
+      "environment": "dev",
+      "url": "https://m.twitch.tv/",
+      "api": "https://cat-fact.herokuapp.com/"
+    }
+  ]
+}
