@@ -44,6 +44,9 @@ behavex -t API -D browser=chrome -D headless_browser -D env=<qa or dev>
   <img src="sporty-test-result.gif" alt="Automation Result" style="max-width: 100%; height: auto;">
 </div>
 
+### List of API and Web scenarios:
+
+![img.png](img.png)
 
 ### Testing solution documentation
 As the testing solution consists of a wrapper (called BehaveX) on top of Python Behave, please take a look at the Behave documentation:
