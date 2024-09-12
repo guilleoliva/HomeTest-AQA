@@ -1,4 +1,4 @@
-@API @SMOKE
+@API @SMOKE @SPORTY-TEST
 Feature: [API] Get Facts list
 
   Scenario: Retrieve one or more Facts

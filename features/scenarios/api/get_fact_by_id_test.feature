@@ -1,4 +1,4 @@
-@API @SMOKE
+@API @SMOKE @SPORTY-TEST
 Feature: [API] Get fact by its ID
 
   Background:

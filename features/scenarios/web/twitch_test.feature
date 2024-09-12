@@ -1,4 +1,4 @@
-@WEB @SMOKE
+@WEB @SMOKE @SPORTY-TEST
 Feature: [WEB] Sporty Group - Twitch
 
   Scenario: Sporty Group Acceptance Test
