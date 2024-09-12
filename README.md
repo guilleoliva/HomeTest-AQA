@@ -1,3 +1,4 @@
+
 <div style="text-align: center;">
   <img src="sporty.png" style="width:70%; height:auto;" alt="Responsive Centered Image">
 </div>
